@@ -1,7 +1,7 @@
-a=int(input())
-b=int(input())
+a=int(input('From:'))
+b=int(input('To:'))
 while a<=b:
-    print(a)
+    print(a,'table multiples upto??')
     j=int(input())
     i=1
     while i<=j:
